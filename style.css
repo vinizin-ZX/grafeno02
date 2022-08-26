@@ -1,11 +1,15 @@
 h1{
   text-align: center;
 }
+h3{
+  text-align: center;
+}
+
 h2{
   text-align: center;
 }
 body{
-  background-image: url(file:///tmp/guest-jmy0ce/%C3%81rea%20de%20Trabalho/destino-main/tela%20de%20fundo.jpg);
+  background: lightgrey
 }
 p{
   color: black
@@ -20,7 +24,7 @@ h2{
 }
 
 p{
-  font-size: 18px
+  font-size: 20px
 }
 
 h1{
@@ -35,14 +39,18 @@ p{
 }
 div{
   width:150px;
-  border: 15px solid gray;
+  border: 15px solid cyan ;
   padding: 50px;
   margin:10px;
   display: flex; justify-content: center;
   color: black
 }
+
 div{
   margin: 0 auto;
   width: 50%;
   font-size: 50px
+}
+li{
+  text-align: center;
 }
